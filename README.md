@@ -4,9 +4,9 @@
 🏛️ Universidade Federal do Rio de Janeiro | 🔬 Laboratório de Previsão de Curtíssimo Prazo e Eventos Extremos (@lacpex)
 
 ## **📌 Sobre Mim**
-- 🌦️ Apaixonado por Meteorologia Operacional, Eventos Extremos de Precipitação e Radares.
+- 🌦️ Áreas de interesse: Meteorologia Operacional, Nowcasting, Eventos Extremos de Precipitação e Radares.
 - 📊 Trabalhando atualmente na Secretaria de Estado de Energia e Economia do Mar (SEENEMAR) como Estagiário. 
-- 📚 Aprendendo Python, WRF.
+- 📚 Aprimorando conhecimentos em Python, WRF.
 
 ## **🛠️ Tecnologias & Ferramentas**
 ### **Linguagens & Programação**
