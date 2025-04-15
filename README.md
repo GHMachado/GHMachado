@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Gabriel Machado!
 
-🌍 **Graduando em Meteorologia** | 🎛️ **Pesquisador em Eventos extremos de precipitação**  
+⛈️ **Graduando em Meteorologia** | 🎛️ **Pesquisador em Eventos extremos de precipitação**  
 🏛️ Universidade Federal do Rio de Janeiro | 🔬 Laboratório de Previsão de Curtíssimo Prazo e Eventos Extremos (@lacpex)
 
 ## **📌 Sobre Mim**
