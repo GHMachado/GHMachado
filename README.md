@@ -7,6 +7,7 @@
 - 🌦️ Áreas de interesse: Meteorologia Operacional, Nowcasting, Eventos Extremos de Precipitação e Radares.
 - 📊 Trabalhando atualmente na Secretaria de Estado de Energia e Economia do Mar (SEENEMAR) como Estagiário. 
 - 📚 Aprimorando conhecimentos em Python, WRF.
+- 🧾 Desenvolvendo Iniciação Científica/Monografia sobre Eventos Extremos de precipitação no Rio Grande do Sul.
 
 ## **🛠️ Tecnologias & Ferramentas**
 ### **Linguagens & Programação**
